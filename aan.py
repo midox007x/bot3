@@ -10,27 +10,27 @@ from gtts import gTTS
 
 #tinkerbell
 cl = LINETCR.LINE()
-cl.login(token="")
+cl.login(token="EzT7MhnGpnFda78tWpK5.KTOLDtNUiWTGWDrGURHqfq.xY1rmutupcw8eoIalxPFTirS0pM5YrOW2749Uc38nwA=")
 cl.loginResult()
 #vidia
 kt = LINETCR.LINE()
-kt.login(token="")
+kt.login(token="EzFZWcDlN4WnSThxYWca.YCZmYng2cnizE2AAdCiAsG.LWylBazLb+EA7Lf9XCMJRtyJWRN4+XVW83M6ylYixuc=")
 kt.loginResult()
 #rosetta
 ks = LINETCR.LINE()
-ks.login(token="")
+ks.login(token="EzAOwUt0UiXlLYWIm7q9.owspfyrbNsoLP83HEqqGgq.qhaNpUx//0zMelItt2RV4qxHBn0leLz1oOmMYHp5f1M=")
 ks.loginResult()
 #sirvelmist
 ki = LINETCR.LINE()
-ki.login(token="")
+ki.login(token="EzO8CGQag9aTLbv5sAdf.P7S5J0u/6OmK+JKt9m1ZlW.0U6mcQ4L/aUBRgsS6zo4KZtLvMSJL0gqACr1sQBnOhQ=")
 ki.loginResult()
 #fawn
 kk = LINETCR.LINE()
-kk.login(token="")
+kk.login(token="EzMR0TQzzpRDRe4zNbWd.j5T9/JZ+nuC81AsU6Vrytq.8/dirBtnKTMClW8dmJEbyNYGGNeigQYNQXK7+tMBOXI=")
 kk.loginResult()
 #iridessa
 kc = LINETCR.LINE()
-kc.login(token="")
+kc.login(token="EzRHTcLxhVyompu3BBK8.0S7gTtgzNqfYQQf3bFnU6a.Gj3t/QpjTkOg5yk1wRxb89s+lz6PyubAicRzYQ0Iyj8=")
 kc.loginResult()
 
 #kicker ghost
@@ -240,8 +240,8 @@ autoinvite = []
 autoleaveroom = []
 targets = []
 Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid]
-admin = ["ub76a0153a283da9a1443dfb043181335"]
-owner = ["ub76a0153a283da9a1443dfb043181335"]
+admin = ["u92da257539ee230b60c1d460bab85015"]
+owner = ["u92da257539ee230b60c1d460bab85015"]
 wait = {
     'contact':False,
     'autoJoin':True,
